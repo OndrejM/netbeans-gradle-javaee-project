@@ -1,2 +1,4 @@
 language: java
 before_script: cd netbeans-gradle-javaee-plugin
+deploy:
+	skip_cleanup: true
